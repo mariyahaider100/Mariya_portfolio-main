@@ -1,0 +1,28 @@
+E:\Sotabdi_Portfolio>node -v
+v20.13.1
+
+E:\Sotabdi_Portfolio>node -v
+v20.13.1
+=============
+E:\Sotabdi_Portfolio>npm init -y
+Wrote to E:\Sotabdi_Portfolio\package.json:
+{
+  "name": "sotabdi_portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+================
+
+then tailwind install Link: https://tailwindcss.com/docs/installation/tailwind-cli
+notun akta folder khulsi src oitar vhitor input.css file khulsi output.css auto create hoise 
+
+
+===================================

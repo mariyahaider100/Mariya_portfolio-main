@@ -1,0 +1,20 @@
+tailwind css ar akta library 
+type script js ar akta librarry
+
+
+
+
+
+src te ami index.ts create korsi sob kaj aikhane kori ar convert hoy amar dist folder a index.js ar vhitor
+
+
+
+
+input.css aitar vitor taiwind init korsi
+output.css ar vhoitor sob tailwind ar class deoya ase
+
+tailwind ar CLI use korsos
+
+
+
+tsconfig ---> typescript ar sob set 
